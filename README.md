@@ -1,2 +1,0 @@
-# pingpad
-A text editor
